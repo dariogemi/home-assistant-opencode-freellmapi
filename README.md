@@ -45,6 +45,7 @@ The exact invocation path between Home Assistant and OpenCode depends on the ins
 2. [Safe setup and validation runbook](docs/setup-and-validation.md)
 3. [Operations and troubleshooting](docs/operations-and-troubleshooting.md)
 4. [Implementation status and evidence](docs/implementation-status.md)
+5. [FreeLLMAPI Gateway update runbook](docs/freellmapi-update-runbook.md)
 5. [Security policy](SECURITY.md)
 
 ## Core principles
